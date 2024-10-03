@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://thelitblock.me/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'TheLitblock'
 theme = 'blowfish'
 
 [params]
