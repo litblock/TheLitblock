@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://jubilant-broccoli-vgww5xx6gj53w4w7.github.dev/sitemap.xml
