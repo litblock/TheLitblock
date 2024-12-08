@@ -12,10 +12,10 @@ title = "TheLitblock"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "TheLitblock's page"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© 2024 TheLitblock"
 
-# [params.author]
-#   name = "TheLitblock"
+[params.author]
+  name = "TheLitblock"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96

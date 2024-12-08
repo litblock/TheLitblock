@@ -37,10 +37,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
-
+ide
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "images/background.jpg" # used in: hero, and card
