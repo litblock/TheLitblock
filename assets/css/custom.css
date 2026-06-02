@@ -1,8 +1,0 @@
-@font-face {
-    font-family: Monaco;
-    src: url('/fonts/Monaco.woff');
-}
-
-html {
-    font-family: Monaco;
-}

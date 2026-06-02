@@ -1,7 +1,0 @@
-baseURL = 'https://thelitblock.me/'
-languageCode = 'en-us'
-title = 'TheLitblock'
-theme = 'blowfish'
-
-[params]
-  customCSS = ["css/custom.css"]
